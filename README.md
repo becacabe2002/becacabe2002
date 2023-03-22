@@ -1,4 +1,4 @@
-# It's me, Ngo Minh Tu 
+# <span style="color:146C94"> It's me, Ngo Minh Tu </span>
 > (aka Mr.Fishy 🐟)
 
 **`Computer Science Student`**
