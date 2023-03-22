@@ -27,5 +27,42 @@
 </ul>
 </p>
 
+#
+
+### 🛠️Languages and Tools that I used
+
+<p>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Eclipse" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"/>
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="SQL Server" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Azure" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+</p>
+
+<br/>
+
+#
+
+### Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=becacabe2002&theme=prussian)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becacabe2002&show_icons=true&count_private=true&include_all_commits=true&theme=prussian)
+
+#
+
+### Recent Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=Big_Prj_OOP_gaulois&theme=prussian)](https://github.com/becacabe2002/Big_Prj_OOP_gaulois.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=Software_Intro&theme=prussian)](https://github.com/becacabe2002/Software_Intro.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=SQL_Project&theme=prussian)](https://github.com/becacabe2002/SQL_Project.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=CA_finalProject_group6&theme=prussian)](https://github.com/becacabe2002/CA_finalProject_group6.git)
+
+
+
+
 
 
