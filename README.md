@@ -58,8 +58,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=Big_Prj_OOP_gaulois&theme=prussian)](https://github.com/becacabe2002/Big_Prj_OOP_gaulois.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=Software_Intro&theme=prussian)](https://github.com/becacabe2002/Software_Intro.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=SQL_Project&theme=prussian)](https://github.com/becacabe2002/SQL_Project.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=CA_finalProject_group6&theme=prussian)](https://github.com/becacabe2002/CA_finalProject_group6.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=becacabe2002&repo=SQL_Project&theme=prussian)](https://github.com/becacabe2002/SQL_Project.git)
 
 
 
