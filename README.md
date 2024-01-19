@@ -22,9 +22,7 @@
 <p style="background-color:#C9EEFF;">
 <b>My progress until now:</b>
 <ul>
-<li>🙍‍♂️ Third year student, Hanoi University of Science and Technology
-<li>🔎 Taking part in IBM Data Analyst in Coursera
-<li>📖 Learning NodeJS by self-study
+<li>🙍‍♂️ Fourth year student, Hanoi University of Science and Technology
 </ul>
 </p>
 
